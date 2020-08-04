@@ -9,19 +9,20 @@ For this assignment, you will submit a high-level outline of your project. This 
 ### Overview
 Include overview here
 ### Features
--User Login
--Appointment Scheduling Interface
+-User Login <br>
+-Appointment Scheduling Interface <br>
 -Reviews Section
 ### Technologies
--Java
--Spring Boot
--MySQL
--Hibernate
--JavaScript
--Thymeleaf
+-Java <br>
+-Spring Boot <br>
+-MySQL <br>
+-Hibernate <br>
+-JavaScript <br>
+-Thymeleaf <br>
+-Database management system
 ### What I'll Have to Learn
--How and what Google APIs to use to sync scheduled appointments to the user's Google Calendar and Liz's Google Calendar.
--How to deploy the web application.
+-How and what Google APIs to use to sync scheduled appointments to the user's Google Calendar and Liz's Google Calendar. <br>
+-How to deploy the web application. <br>
 -How to create a remote database and what tools are best suited for this purpose.
 ### Project Tracker
 https://trello.com/b/cmEOVjMp/liftoff-portfolio-project
