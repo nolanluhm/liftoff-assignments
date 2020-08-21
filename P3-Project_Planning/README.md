@@ -9,9 +9,9 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 <ul>
-  <li>![Home Page](Home.jpg)</li>
-  <li>![Schedule Appointment Page](Schedule_Appointment.jpg)</li>
-  <li>![Contact Information Page](Contact_Information.jpg)</li>
+  <li>![Home Page](https://github.com/nolanluhm/liftoff-assignments/blob/master/P3-Project_Planning/Home.jpg)</li>
+  <li>![Schedule Appointment Page](https://github.com/nolanluhm/liftoff-assignments/blob/master/P3-Project_Planning/Schedule_Appointment.jpg)</li>
+  <li>![Contact Information Page](https://github.com/nolanluhm/liftoff-assignments/blob/master/P3-Project_Planning/Contact_Information.jpg)</li>
 </ul>
 
 ### Project Tracker
