@@ -13,4 +13,4 @@ https://github.com/nolanluhm
 https://www.linkedin.com/in/nolanluhm/
 
 ### Resume
-![Liftoff Resume](https://github.com/nolanluhm/liftoff-assignments/blob/master/C1-Online_Profiles/Liftoff_Luhm_Resume.pdf)
+![Liftoff Resume](https://github.com/nolanluhm/liftoff-assignments/blob/master/C1-Online_Profiles/Luhm_Resume.pdf)
