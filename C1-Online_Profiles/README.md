@@ -13,6 +13,4 @@ https://github.com/nolanluhm
 https://www.linkedin.com/in/nolanluhm/
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
-
 ![Liftoff Resume](https://github.com/nolanluhm/liftoff-assignments/blob/master/C1-Online_Profiles/Liftoff_Luhm_Resume.pdf)
